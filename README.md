@@ -3,54 +3,84 @@
 #### Technical Skills: Postman, SQL, Azure, Soucelabs, Backend testing, Jira
 
 ## Educacion
-- Tecnico Universitario en Relaciones Laborales | IUTIRLA | (_Agosto 1996 - Junio 2001_)							       		
-- Analista de Sistemas | Ifts 11 | (_Agosto 2020 - Present_)
-- Diplomado en Testing de Software - QA | Universidad Nacional Tres de febrero | (_Marzo 2024 - Present_)
-- Diplomado en Componente Docente | AVEPANE Venezuela | (_Abril 2015 _) (132 horas)			        		
+- Tecnico Universitario en RH | IUTIRLA | (_Agosto 1996 - Junio 2001_)							       		
+- Analista de Sistemas | Ifts 11 | (_Agosto 2020 - Presente_)
+- Diplomado en Testing de Software - QA | UNTRED | (_Marzo 2024 - Presente_)
+- Diplomado de Docencia | AVEPANE Venezuela | (_Abril 2015 _) (132 horas)			        		
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+## Experiencia Laboral
+**Tester Ssr. @ Infocorp Uruguay (_December 2022 - Mayo 2024_)**
+1. Verificación de Funcionalidad y Servicios:
+- Probar las características principales del software bancario, como apertura de cuentas, transferencias y pagos.
+- Comprobar la integración de servicios adicionales, como emisión de tarjetas de crédito y gestión de préstamos.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+2. Pruebas de Interfaz de Usuario:
+- Realizar pruebas de interfaz de usuario para garantizar la navegación intuitiva y el cumplimiento de las pautas de diseño.
+- Verificar la autenticación y autorización para asegurar el acceso solo a usuarios autorizados.
+
+3. Documentación y Reporte de Resultados:
+- Documentar procedimientos de prueba, resultados y defectos encontrados.
+- Generar informes detallados para comunicar hallazgos al cliente y al equipo de desarrollo, asegurando la resolución oportuna de problemas.
+
+4.Colaboración para la Mejora Continua:
+- Colaborar con el equipo de desarrollo y otros interesados para implementar correcciones y mejoras basadas en los resultados de las pruebas.
+
+**Tester QA @ Qualis Lab Argentina (_Marzo 2022 - Diciembre 2022_)**
+1. Análisis y Documentación de Requerimientos:
+- Análisis de requerimientos.
+- Generación de documentación.
+- Definición de criterios de aceptación.
+- Redacción de historias de usuario.
+
+2. Diseño y Ejecución de Pruebas:
+- Diseñar, ejecutar y mantener casos de prueba.
+- Realizar testing manual en frontend y APIs.
+- Testing de aplicaciones web y móviles.
+- Ejecución de pruebas funcionales y no funcionales, incluyendo pruebas de backend (microservicios y consultas a la BBDD).
+
+3. Gestión de Defectos:
+- Elaboración de reportes de bugs.
+- Seguimiento a la resolución de bugs durante todo el ciclo de vida del proyecto.
+
+4. Comunicación y Colaboración:
+- Participar en reuniones diarias del equipo.
+- Comunicar el avance de las pruebas.
+- Escalar riesgos y situaciones relacionadas al proyecto.
+
+**Tester Jr. @ TCS Argentina (_Octubre 2021 - Marzo 2022_)**
+1. Análisis y Preparación de Pruebas:
+- Analizar y entender las historias de usuario y criterios de aceptación.
+- Participar en las ceremonias de Scrum para informar y dar seguimiento sobre las tareas asignadas.
+
+2. Diseño y Ejecución de Casos de Prueba:
+- Diseño y ejecución de casos de prueba usando la herramienta ALM.
+
+3. Ejecución de Pruebas No Funcionales:
+- Realizar pruebas no funcionales, incluyendo la prueba de microservicios con Postman.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### HBI Individuos - Banco Comafi ( Argentina)
+[Publication]([https://www.mdpi.com/1424-8220/22/8/3048](https://www.comafi.com.ar/atencion-cliente-individuos/tutoriales.aspx))
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Proyecto Online Banking para Banco Comafi: Desarrollamos y lanzamos una plataforma de banca en línea moderna y responsiva, que ofrece una experiencia de usuario intuitiva y segura. Esta herramienta permite a los clientes operar y gestionar sus finanzas de manera flexible desde cualquier dispositivo, 24/7, integrando nuevas funcionalidades comerciales y de atención para un servicio centrado en el cliente y altamente competitivo.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
 - Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+
+- [JeanCa En Remoto YouTube]([https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA](https://www.youtube.com/channel/UC0lpnIO6SAJnr81KtU9bcuA))
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+1. Talebi 
 
-- [Data Science Blog](https://medium.com/@shawhin)
+
+- [JeanCa En Remoto Blog](https://jeancaenremoto.wordpress.com/)
