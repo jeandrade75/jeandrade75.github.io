@@ -2,10 +2,10 @@
 
 #### Technical Skills: Postman, SQL, Azure, Soucelabs, Backend testing, Jira
 
-## Educacion
-- Tecnico Universitario en RH |IUTIRLA| (_Agosto 1996 - Junio 2001_)							       		
+## Educación
+- Terciario en RH |IUTIRLA| (_Agosto 1996 - Junio 2001_)							       		
 - Analista de Sistemas |Ifts 11| (_Agosto 2020 - Presente_)
-- Diplomado en Testing de Software - QA |UNTREF| (_Marzo 2024 - Presente_)
+- Diplomado: Testing de Software |UNTREF| (_Marzo 2024 - Presente_)
 - Diplomado de Docencia |AVEPANE Ccs| (_Abril 2015 _) (132 horas)			        		
 
 ## Experiencia Laboral
@@ -60,7 +60,7 @@
 
 ## Proyectos:
 ### HBI Individuos - Banco Comafi ( Argentina)
-[Publication]([(https://www.comafi.com.ar/atencion-cliente-individuos/tutoriales.aspx)])
+[UI Comafi HBI Individuos]([(https://www.comafi.com.ar/atencion-cliente-individuos/tutoriales.aspx)])
 
 Proyecto Online Banking para Banco Comafi: Desarrollamos y lanzamos una plataforma de banca en línea moderna y responsiva, que ofrece una experiencia de usuario intuitiva y segura. Esta herramienta permite a los clientes operar y gestionar sus finanzas de manera flexible desde cualquier dispositivo, 24/7, integrando nuevas funcionalidades comerciales y de atención para un servicio centrado en el cliente y altamente competitivo.
 
@@ -76,11 +76,11 @@ Comafi, la nueva App Mobile de Banco Comafi, que permite operar a través del di
 ![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Ted Talks & Lecturas
-- Fracaso ¿Celebrarlo o no celebrarlo? : [Ted Talk]([(https://youtu.be/fa4BtTAlqZk?si=EKwUHvz9BeIz9Jv6)])
-- ¿Qué hace único a un gran comunicador? : [Ted Talk]([(https://youtu.be/diz6S0LEvfA?si=69CG5Ovh7oRzx5Ms)])
-- Sin pensamiento critico no eres nadie : [Ted Talk]([(https://youtu.be/WxC4RfTiOsM?si=BL1xBf9XOFLFRyfk)])
-- 7 Ways to Make a Conversation With Anyone : [Ted Talk]([(https://youtu.be/F4Zu5ZZAG7I?si=A7rqoD4BOV4DVgCS)])
-- How to stop screwing yourself over : [Ted Talk]([(https://youtu.be/Lp7E973zozc?si=BZNSrvieepsxLFpa)])
+- Fracaso ¿Celebrarlo o no celebrarlo? : [Ted Talk link ]([(https://youtu.be/fa4BtTAlqZk?si=EKwUHvz9BeIz9Jv6)])
+- ¿Qué hace único a un gran comunicador? : [Ted Talk link ]([(https://youtu.be/diz6S0LEvfA?si=69CG5Ovh7oRzx5Ms)])
+- Sin pensamiento critico no eres nadie : [Ted Talk link ]([(https://youtu.be/WxC4RfTiOsM?si=BL1xBf9XOFLFRyfk)])
+- 7 Ways to Make a Conversation With Anyone : [Ted Talk link ]([(https://youtu.be/F4Zu5ZZAG7I?si=A7rqoD4BOV4DVgCS)])
+- How to stop screwing yourself over : [Ted Talk link ]([(https://youtu.be/Lp7E973zozc?si=BZNSrvieepsxLFpa)])
 
 ## Tutoriales:
 [JeanCa En Remoto YouTube]([(https://www.youtube.com/channel/UC0lpnIO6SAJnr81KtU9bcuA)])
