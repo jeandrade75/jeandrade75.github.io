@@ -3,10 +3,10 @@
 #### Technical Skills: Postman, SQL, Azure, Soucelabs, Backend testing, Jira
 
 ## Educacion
-- Tecnico Universitario en RH | IUTIRLA | (_Agosto 1996 - Junio 2001_)							       		
-- Analista de Sistemas | Ifts 11 | (_Agosto 2020 - Presente_)
-- Diplomado en Testing de Software - QA | UNTREF | (_Marzo 2024 - Presente_)
-- Diplomado de Docencia | AVEPANE Venezuela | (_Abril 2015 _) (132 horas)			        		
+- Tecnico Universitario en RH |IUTIRLA| (_Agosto 1996 - Junio 2001_)							       		
+- Analista de Sistemas |Ifts 11| (_Agosto 2020 - Presente_)
+- Diplomado en Testing de Software - QA |UNTREF| (_Marzo 2024 - Presente_)
+- Diplomado de Docencia |AVEPANE Ccs| (_Abril 2015 _) (132 horas)			        		
 
 ## Experiencia Laboral
 **Tester Ssr. @ Infocorp Uruguay (_December 2022 - Mayo 2024_)**
@@ -58,7 +58,7 @@
 3. Ejecución de Pruebas No Funcionales:
 - Realizar pruebas no funcionales, incluyendo la prueba de microservicios con Postman.
 
-## Projects
+## Proyectos:
 ### HBI Individuos - Banco Comafi ( Argentina)
 [Publication]([(https://www.comafi.com.ar/atencion-cliente-individuos/tutoriales.aspx)])
 
@@ -68,20 +68,22 @@ Proyecto Online Banking para Banco Comafi: Desarrollamos y lanzamos una platafor
 
 ### APP Comafi
 Comafi, la nueva App Mobile de Banco Comafi, que permite operar a través del dispositivo móvil en cualquier momento y lugar, las 24hs del día. Ahora el cliente puede visualizar todos sus productos, transferir a todos sus contactos, efectuar los pagos de sus tarjetas Comafi y de otras tarjetas de crédito, pagar impuestos, servicios y realizar recargas.
-[Publication]([(https://www.comafi.com.ar/atencion-cliente-individuos/tutoriales.aspx)])
+[UI Comafi HBI Individuos]([(https://www.comafi.com.ar/atencion-cliente-individuos/tutoriales.aspx)])
 
-[Publication]([(https://www.comafi.com.ar/atencion-cliente-individuos/tutoriales.aspx)])
+[UI Comafi HBI Individuos App]([(https://www.comafi.com.ar/atencion-cliente-individuos/tutoriales.aspx)])
 
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
+## Ted Talks & Lecturas
+- Fracaso ¿Celebrarlo o no celebrarlo? : [Ted Talk]([(https://youtu.be/fa4BtTAlqZk?si=EKwUHvz9BeIz9Jv6)])
+- ¿Qué hace único a un gran comunicador? : [Ted Talk]([(https://youtu.be/diz6S0LEvfA?si=69CG5Ovh7oRzx5Ms)])
+- Sin pensamiento critico no eres nadie : [Ted Talk]([(https://youtu.be/WxC4RfTiOsM?si=BL1xBf9XOFLFRyfk)])
+- 7 Ways to Make a Conversation With Anyone : [Ted Talk]([(https://youtu.be/F4Zu5ZZAG7I?si=A7rqoD4BOV4DVgCS)])
+- How to stop screwing yourself over : [Ted Talk]([(https://youtu.be/Lp7E973zozc?si=BZNSrvieepsxLFpa)])
 
+## Tutoriales:
+[JeanCa En Remoto YouTube]([(https://www.youtube.com/channel/UC0lpnIO6SAJnr81KtU9bcuA)])
 
-- [JeanCa En Remoto YouTube]([(https://www.youtube.com/channel/UC0lpnIO6SAJnr81KtU9bcuA)])
-
-## Publications
-1. JeanCa's Blog 
-- [JeanCa En Remoto Blog](https://jeancaenremoto.wordpress.com/)
+## Publicaciones:
+Blog: [JeanCa En Remoto Blog](https://jeancaenremoto.wordpress.com/)
