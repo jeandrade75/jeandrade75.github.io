@@ -5,7 +5,7 @@
 ## Educacion
 - Tecnico Universitario en RH | IUTIRLA | (_Agosto 1996 - Junio 2001_)							       		
 - Analista de Sistemas | Ifts 11 | (_Agosto 2020 - Presente_)
-- Diplomado en Testing de Software - QA | UNTRED | (_Marzo 2024 - Presente_)
+- Diplomado en Testing de Software - QA | UNTREF | (_Marzo 2024 - Presente_)
 - Diplomado de Docencia | AVEPANE Venezuela | (_Abril 2015 _) (132 horas)			        		
 
 ## Experiencia Laboral
@@ -60,14 +60,17 @@
 
 ## Projects
 ### HBI Individuos - Banco Comafi ( Argentina)
-[Publication]([https://www.mdpi.com/1424-8220/22/8/3048](https://www.comafi.com.ar/atencion-cliente-individuos/tutoriales.aspx))
+[Publication]([(https://www.comafi.com.ar/atencion-cliente-individuos/tutoriales.aspx)])
 
 Proyecto Online Banking para Banco Comafi: Desarrollamos y lanzamos una plataforma de banca en línea moderna y responsiva, que ofrece una experiencia de usuario intuitiva y segura. Esta herramienta permite a los clientes operar y gestionar sus finanzas de manera flexible desde cualquier dispositivo, 24/7, integrando nuevas funcionalidades comerciales y de atención para un servicio centrado en el cliente y altamente competitivo.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### APP Comafi
+Comafi, la nueva App Mobile de Banco Comafi, que permite operar a través del dispositivo móvil en cualquier momento y lugar, las 24hs del día. Ahora el cliente puede visualizar todos sus productos, transferir a todos sus contactos, efectuar los pagos de sus tarjetas Comafi y de otras tarjetas de crédito, pagar impuestos, servicios y realizar recargas.
+[Publication]([(https://www.comafi.com.ar/atencion-cliente-individuos/tutoriales.aspx)])
+
+[Publication]([(https://www.comafi.com.ar/atencion-cliente-individuos/tutoriales.aspx)])
 
 
 ![Bike Study](/assets/img/bike_study.jpeg)
@@ -77,10 +80,8 @@ Proyecto Online Banking para Banco Comafi: Desarrollamos y lanzamos una platafor
 - Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
 
 
-- [JeanCa En Remoto YouTube]([https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA](https://www.youtube.com/channel/UC0lpnIO6SAJnr81KtU9bcuA))
+- [JeanCa En Remoto YouTube]([(https://www.youtube.com/channel/UC0lpnIO6SAJnr81KtU9bcuA)])
 
 ## Publications
-1. Talebi 
-
-
+1. JeanCa's Blog 
 - [JeanCa En Remoto Blog](https://jeancaenremoto.wordpress.com/)
