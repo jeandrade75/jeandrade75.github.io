@@ -76,9 +76,9 @@ Comafi, la nueva App Mobile de Banco Comafi, que permite operar a través del di
 ![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Ted Talks & Lecturas
-- Fracaso ¿Celebrarlo o no celebrarlo? : [Ted Talk link ]([(https://youtu.be/fa4BtTAlqZk?si=EKwUHvz9BeIz9Jv6)])
+- Fracaso ¿Celebrarlo o no celebrarlo? :   [Ted Talk link ]([(https://youtu.be/fa4BtTAlqZk?si=EKwUHvz9BeIz9Jv6)])
 - ¿Qué hace único a un gran comunicador? : [Ted Talk link ]([(https://youtu.be/diz6S0LEvfA?si=69CG5Ovh7oRzx5Ms)])
-- Sin pensamiento critico no eres nadie : [Ted Talk link ]([(https://youtu.be/WxC4RfTiOsM?si=BL1xBf9XOFLFRyfk)])
+- Sin pensamiento critico no eres nadie :  [Ted Talk link ]([(https://youtu.be/WxC4RfTiOsM?si=BL1xBf9XOFLFRyfk)])
 - 7 Ways to Make a Conversation With Anyone : [Ted Talk link ]([(https://youtu.be/F4Zu5ZZAG7I?si=A7rqoD4BOV4DVgCS)])
 - How to stop screwing yourself over : [Ted Talk link ]([(https://youtu.be/Lp7E973zozc?si=BZNSrvieepsxLFpa)])
 
