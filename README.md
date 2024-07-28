@@ -1,11 +1,12 @@
-# Data Scientist
+# Tester - QA Manual
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Postman, SQL, Azure, Soucelabs, Backend testing, Jira
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Educacion
+- Tecnico Universitario en Relaciones Laborales | IUTIRLA | (_Agosto 1996 - Junio 2001_)							       		
+- Analista de Sistemas | Ifts 11 | (_Agosto 2020 - Present_)
+- Diplomado en Testing de Software - QA | Universidad Nacional Tres de febrero | (_Marzo 2024 - Present_)
+- Diplomado en Componente Docente | AVEPANE Venezuela | (_Abril 2015 _) (132 horas)			        		
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
