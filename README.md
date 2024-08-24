@@ -74,6 +74,8 @@ Comafi, la nueva App Mobile de Banco Comafi, que permite operar a través del di
 
 
 ![Bike Study](/assets/img/bike_study.jpeg)
+![Bike Study](/assets/img/bike_study1.jpeg)
+![Bike Study](/assets/img/bike_study2.jpeg)
 
 ## Ted Talks & Lecturas
 - Fracaso ¿Celebrarlo o no celebrarlo? :   [Ted Talk link ]([(https://youtu.be/fa4BtTAlqZk?si=EKwUHvz9BeIz9Jv6)])
