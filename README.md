@@ -62,10 +62,22 @@
 ### HBI Individuos - Banco Comafi ( Argentina)
 [UI Comafi HBI Individuos](https://www.comafi.com.ar/atencion-cliente-individuos/tutoriales.aspx)
 
-Como parte del equipo de Testing tuve la oportunidad de ser parte del Proyecto Online Banking para Banco Comafi donde desarrollamos y lanzamos una plataforma de banca en línea moderna y responsiva, que actualmente ofrece una experiencia de usuario intuitiva y segura. Esta herramienta permite a los clientes operar y gestionar sus finanzas de manera flexible desde cualquier dispositivo, 24/7, integrando nuevas funcionalidades comerciales y de atención para un servicio centrado en el cliente y altamente competitivo.
+Participación en el Proyecto Online Banking de Banco Comafi
 
-### Pruebas a la Web : 
-Estas son algunas de las interfaces a las cuales realizamos las pruebas funcionales. Las mismas corresponden a algunas de las funcionalidades del HB como:  Creacion de usuarios, acceso y manipulación de "Mis Productos", Transferencias. 
+Como miembro del equipo de Testing, tuve la oportunidad de contribuir al desarrollo del Proyecto Online Banking para Banco Comafi. En este proyecto, trabajamos en la creación y lanzamiento de una plataforma de banca en línea moderna y responsiva, diseñada para ofrecer una experiencia de usuario intuitiva y segura. Esta plataforma permite a los clientes gestionar sus finanzas de manera flexible desde cualquier dispositivo, en cualquier momento, gracias a su disponibilidad 24/7. La herramienta también incorpora funcionalidades avanzadas para mejorar el servicio al cliente y mantenernos competitivos en el mercado.
+
+##Pruebas Web Realizadas:
+
+En el marco de este proyecto, realizamos pruebas funcionales exhaustivas en varias interfaces clave de la plataforma. Entre las funcionalidades evaluadas se incluyen:
+
+Creación de usuarios.
+Acceso y gestión de “Mis Productos”.
+Transferencias.
+Pago de Servicios.
+Pago de Préstamos.
+Altas de Prodcutos.
+
+Estas pruebas garantizaron el correcto funcionamiento de las características críticas del sistema y ayudaron a optimizar la experiencia del usuario. 
 
 ### Creación de usuarios :
 
@@ -79,7 +91,9 @@ Estas son algunas de las interfaces a las cuales realizamos las pruebas funciona
 Comafi, la nueva App Mobile de Banco Comafi, que permite operar a través del dispositivo móvil en cualquier momento y lugar, las 24hs del día. Ahora el cliente puede visualizar todos sus productos, transferir a todos sus contactos, efectuar los pagos de sus tarjetas Comafi y de otras tarjetas de crédito, pagar impuestos, servicios y realizar recargas.
 [Página Comafi HBI Individuos App](https://www.comafi.com.ar/atencion-cliente-individuos/tutoriales.aspx)
 
-### APP Comafi UI: A continuación una muestra de las pruebas que fueron realziadas a la nueva App de Comafi, las mismas fueron realizadas tanto para Android como iOS:
+### APP Comafi UI: 
+A continuación una muestra de las pruebas que fueron realziadas a la nueva App de Comafi, las mismas fueron realizadas tanto para Android como iOS:
+
 ### Activación de Soft Token:
 ![Bike Study1](/assets/img/bike_study1.jpeg)
 ### Transferencias entre cuentas:
