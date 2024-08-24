@@ -60,7 +60,7 @@
 
 ## Proyectos:
 ### HBI Individuos - Banco Comafi ( Argentina)
-[UI Comafi HBI Individuos]([(https://www.comafi.com.ar/atencion-cliente-individuos/tutoriales.aspx)])
+[UI Comafi HBI Individuos](https://www.comafi.com.ar/atencion-cliente-individuos/tutoriales.aspx)
 
 Proyecto Online Banking para Banco Comafi: Desarrollamos y lanzamos una plataforma de banca en línea moderna y responsiva, que ofrece una experiencia de usuario intuitiva y segura. Esta herramienta permite a los clientes operar y gestionar sus finanzas de manera flexible desde cualquier dispositivo, 24/7, integrando nuevas funcionalidades comerciales y de atención para un servicio centrado en el cliente y altamente competitivo.
 
@@ -85,7 +85,7 @@ Comafi, la nueva App Mobile de Banco Comafi, que permite operar a través del di
 - How to stop screwing yourself over : [Ted Talk link ]([(https://youtu.be/Lp7E973zozc?si=BZNSrvieepsxLFpa)])
 
 ## Tutoriales:
-[JeanCa En Remoto YouTube]([(https://www.youtube.com/channel/UC0lpnIO6SAJnr81KtU9bcuA)])
+[JeanCa En Remoto YouTube](https://www.youtube.com/channel/UC0lpnIO6SAJnr81KtU9bcuA)
 
 ## Publicaciones:
 Blog: [JeanCa En Remoto Blog](https://jeancaenremoto.wordpress.com/)
