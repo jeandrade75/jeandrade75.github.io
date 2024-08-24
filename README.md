@@ -80,7 +80,7 @@ Altas de Prodcutos.
 Estas pruebas garantizaron el correcto funcionamiento de las características críticas del sistema y ayudaron a optimizar la experiencia del usuario. 
 
 ### Creación de usuarios :
-![Bike Study](/assets/img/bike_study.jpeg)
+
 ![usuario01_PANTALLASCOMAFI](/assets/img/usuario01_PANTALLASCOMAFI.jpeg)
 ![usuario02_PANTALLASCOMAFI](/assets/img/usuario02_PANTALLASCOMAFI.jpeg)
 ![usuario03_PANTALLASCOMAFI](/assets/img/usuario03_PANTALLASCOMAFI.jpeg)
