@@ -70,17 +70,16 @@ Como miembro del equipo de Testing, tuve la oportunidad de contribuir al desarro
 
 En el marco de este proyecto, realizamos pruebas funcionales exhaustivas en varias interfaces clave de la plataforma. Entre las funcionalidades evaluadas se incluyen:
 
-Creación de usuarios.
-Acceso y gestión de “Mis Productos”.
-Transferencias.
-Pago de Servicios.
-Pago de Préstamos.
-Altas de Prodcutos.
+- Creación de usuarios.
+- Acceso y gestión de “Mis Productos”.
+- Transferencias.
+- Pago de Servicios.
+- Pago de Préstamos.
+- Altas de Productos.
 
 Estas pruebas garantizaron el correcto funcionamiento de las características críticas del sistema y ayudaron a optimizar la experiencia del usuario. 
 
 ### Creación de usuarios :
-
 ![usuario01_PANTALLASCOMAFI](/assets/img/usuario01_PANTALLASCOMAFI.jpeg)
 ![usuario02_PANTALLASCOMAFI](/assets/img/usuario02_PANTALLASCOMAFI.jpeg)
 ![usuario03_PANTALLASCOMAFI](/assets/img/usuario03_PANTALLASCOMAFI.jpeg)
@@ -109,13 +108,14 @@ Estas pruebas manuales fueron fundamentales para identificar y corregir posibles
 [Página Comafi HBI Individuos App](https://www.comafi.com.ar/atencion-cliente-individuos/tutoriales.aspx)
 
 ### APP Comafi UI: 
-A continuación una muestra de las pruebas que fueron realziadas a la nueva App de Comafi, las mismas fueron realizadas tanto para Android como iOS:
+A continuación una muestra de las pruebas que fueron realizadas a la nueva App de Banco Comafi, las mismas fueron realizadas tanto para Android como iOS:
 
 ### Activación de Soft Token:
 ![Bike Study1](/assets/img/bike_study1.jpeg)
 ### Transferencias entre cuentas:
 ![Bike Study2](/assets/img/bike_study2.jpeg)
 
+# Otras cosas que me interesan:
 ## Ted Talks & Lecturas:
 - Fracaso ¿Celebrarlo o no celebrarlo? :   [Ted Talk link ](https://youtu.be/fa4BtTAlqZk?si=EKwUHvz9BeIz9Jv6)
 - ¿Qué hace único a un gran comunicador? : [Ted Talk link ](https://youtu.be/diz6S0LEvfA?si=69CG5Ovh7oRzx5Ms)
