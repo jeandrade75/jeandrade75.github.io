@@ -62,19 +62,27 @@
 ### HBI Individuos - Banco Comafi ( Argentina)
 [UI Comafi HBI Individuos](https://www.comafi.com.ar/atencion-cliente-individuos/tutoriales.aspx)
 
-Proyecto Online Banking para Banco Comafi: Desarrollamos y lanzamos una plataforma de banca en línea moderna y responsiva, que ofrece una experiencia de usuario intuitiva y segura. Esta herramienta permite a los clientes operar y gestionar sus finanzas de manera flexible desde cualquier dispositivo, 24/7, integrando nuevas funcionalidades comerciales y de atención para un servicio centrado en el cliente y altamente competitivo.
+Como parte del equipo de Testing tuve la oportunidad de ser parte del Proyecto Online Banking para Banco Comafi donde desarrollamos y lanzamos una plataforma de banca en línea moderna y responsiva, que actualmente ofrece una experiencia de usuario intuitiva y segura. Esta herramienta permite a los clientes operar y gestionar sus finanzas de manera flexible desde cualquier dispositivo, 24/7, integrando nuevas funcionalidades comerciales y de atención para un servicio centrado en el cliente y altamente competitivo.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+## Pruebas a la Web : 
+Estas son algunas de las interfaces a las cuales realizamos las pruebas funcionales. Las mismas corresponden a algunas de las funcionalidades del HB como:  Creacion de usuarios, acceso y manipulación de "Mis Productos", Transferencias. 
+
+## Creación de usuarios :
+
+## Acceso y manejo de Dashboard :
+
+## Vista de Mis Productos :
+
+## Transferencias entre cuentas :
 
 ### APP Comafi
 Comafi, la nueva App Mobile de Banco Comafi, que permite operar a través del dispositivo móvil en cualquier momento y lugar, las 24hs del día. Ahora el cliente puede visualizar todos sus productos, transferir a todos sus contactos, efectuar los pagos de sus tarjetas Comafi y de otras tarjetas de crédito, pagar impuestos, servicios y realizar recargas.
-[UI Comafi HBI Individuos](https://www.comafi.com.ar/atencion-cliente-individuos/tutoriales.aspx)
-
 [Página Comafi HBI Individuos App](https://www.comafi.com.ar/atencion-cliente-individuos/tutoriales.aspx)
 
+### APP Comafi UI:
 
-![Bike Study](/assets/img/bike_study.jpeg)
 ![Bike Study1](/assets/img/bike_study1.jpeg)
+
 ![Bike Study2](/assets/img/bike_study2.jpeg)
 
 ## Ted Talks & Lecturas
@@ -87,5 +95,9 @@ Comafi, la nueva App Mobile de Banco Comafi, que permite operar a través del di
 ## Tutoriales:
 [JeanCa En Remoto YouTube](https://www.youtube.com/feed/playlists)
 
+![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+
 ## Publicaciones:
 Blog: [JeanCa En Remoto Blog](https://jeancaenremoto.wordpress.com/)
+
+![Bike Study](/assets/img/bike_study.jpeg)
