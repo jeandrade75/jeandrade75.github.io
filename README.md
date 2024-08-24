@@ -64,28 +64,28 @@
 
 Como parte del equipo de Testing tuve la oportunidad de ser parte del Proyecto Online Banking para Banco Comafi donde desarrollamos y lanzamos una plataforma de banca en línea moderna y responsiva, que actualmente ofrece una experiencia de usuario intuitiva y segura. Esta herramienta permite a los clientes operar y gestionar sus finanzas de manera flexible desde cualquier dispositivo, 24/7, integrando nuevas funcionalidades comerciales y de atención para un servicio centrado en el cliente y altamente competitivo.
 
-## Pruebas a la Web : 
+### Pruebas a la Web : 
 Estas son algunas de las interfaces a las cuales realizamos las pruebas funcionales. Las mismas corresponden a algunas de las funcionalidades del HB como:  Creacion de usuarios, acceso y manipulación de "Mis Productos", Transferencias. 
 
-## Creación de usuarios :
+### Creación de usuarios :
 
-## Acceso y manejo de Dashboard :
+### Acceso y manejo de Dashboard :
 
-## Vista de Mis Productos :
+### Vista de Mis Productos :
 
-## Transferencias entre cuentas :
+### Transferencias entre cuentas :
 
 ### APP Comafi
 Comafi, la nueva App Mobile de Banco Comafi, que permite operar a través del dispositivo móvil en cualquier momento y lugar, las 24hs del día. Ahora el cliente puede visualizar todos sus productos, transferir a todos sus contactos, efectuar los pagos de sus tarjetas Comafi y de otras tarjetas de crédito, pagar impuestos, servicios y realizar recargas.
 [Página Comafi HBI Individuos App](https://www.comafi.com.ar/atencion-cliente-individuos/tutoriales.aspx)
 
-### APP Comafi UI:
-
+### APP Comafi UI: A continuación una muestra de las pruebas que fueron realziadas a la nueva App de Comafi, las mismas fueron realizadas tanto para Android como iOS:
+### Activación de Soft Token:
 ![Bike Study1](/assets/img/bike_study1.jpeg)
-
+### Transferencias entre cuentas:
 ![Bike Study2](/assets/img/bike_study2.jpeg)
 
-## Ted Talks & Lecturas
+## Ted Talks & Lecturas:
 - Fracaso ¿Celebrarlo o no celebrarlo? :   [Ted Talk link ](https://youtu.be/fa4BtTAlqZk?si=EKwUHvz9BeIz9Jv6)
 - ¿Qué hace único a un gran comunicador? : [Ted Talk link ](https://youtu.be/diz6S0LEvfA?si=69CG5Ovh7oRzx5Ms)
 - Sin pensamiento critico no eres nadie :  [Ted Talk link ](https://youtu.be/WxC4RfTiOsM?si=BL1xBf9XOFLFRyfk)
@@ -93,11 +93,11 @@ Comafi, la nueva App Mobile de Banco Comafi, que permite operar a través del di
 - How to stop screwing yourself over : [Ted Talk link ](https://youtu.be/Lp7E973zozc?si=BZNSrvieepsxLFpa)
 
 ## Tutoriales:
-[JeanCa En Remoto YouTube](https://www.youtube.com/feed/playlists)
+Este es mi canal de Youtube: [JeanCa En Remoto YouTube](https://www.youtube.com/feed/playlists)
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ## Publicaciones:
-Blog: [JeanCa En Remoto Blog](https://jeancaenremoto.wordpress.com/)
+Este es mi Blog: [JeanCa En Remoto Blog](https://jeancaenremoto.wordpress.com/)
 
 ![Bike Study](/assets/img/bike_study.jpeg)
