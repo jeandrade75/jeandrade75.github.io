@@ -3,10 +3,10 @@
 #### Technical Skills: Postman, SQL, Azure, Soucelabs, Backend testing, Jira
 
 ## Educación
-- Terciario en RH |IUTIRLA| (_Agosto 1996 - Junio 2001_)							       		
-- Analista de Sistemas |Ifts 11| (_Agosto 2020 - Presente_)
-- Diplomado: Testing de Software |UNTREF| (_Marzo 2024 - Presente_)
-- Diplomado de Docencia |AVEPANE Ccs| (_Abril 2015 _) (132 horas)			        		
+- Analista de Sistemas |Ifts 11| (_Agosto 2020 - En curso_)
+- Analista de Rrhh |IUTIRLA| (_Agosto 1996 - Junio 2001_)							       		
+- Diplomado: Testing de Software |UNTREF| (_Marzo 2024 - En curso_)
+- Diplomado de Docencia |AVEPANE Ccs| (_Abril 2015_) 			        		
 
 ## Experiencia Laboral
 **Tester Ssr. @ Infocorp Uruguay (_December 2022 - Mayo 2024_)**
@@ -74,8 +74,8 @@ Comafi, la nueva App Mobile de Banco Comafi, que permite operar a través del di
 
 
 ![Bike Study](/assets/img/bike_study.jpeg)
-![Bike Study](/assets/img/bike_study1.jpeg)
-![Bike Study](/assets/img/bike_study2.jpeg)
+![Bike Study1](/assets/img/bike_study1.jpeg)
+![Bike Study2](/assets/img/bike_study2.jpeg)
 
 ## Ted Talks & Lecturas
 - Fracaso ¿Celebrarlo o no celebrarlo? :   [Ted Talk link ]([(https://youtu.be/fa4BtTAlqZk?si=EKwUHvz9BeIz9Jv6)])
