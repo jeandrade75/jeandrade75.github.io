@@ -68,9 +68,9 @@ Proyecto Online Banking para Banco Comafi: Desarrollamos y lanzamos una platafor
 
 ### APP Comafi
 Comafi, la nueva App Mobile de Banco Comafi, que permite operar a través del dispositivo móvil en cualquier momento y lugar, las 24hs del día. Ahora el cliente puede visualizar todos sus productos, transferir a todos sus contactos, efectuar los pagos de sus tarjetas Comafi y de otras tarjetas de crédito, pagar impuestos, servicios y realizar recargas.
-[UI Comafi HBI Individuos]([(https://www.comafi.com.ar/atencion-cliente-individuos/tutoriales.aspx)])
+[UI Comafi HBI Individuos](https://www.comafi.com.ar/atencion-cliente-individuos/tutoriales.aspx)
 
-[Página Comafi HBI Individuos App]([(https://www.comafi.com.ar/atencion-cliente-individuos/tutoriales.aspx)])
+[Página Comafi HBI Individuos App](https://www.comafi.com.ar/atencion-cliente-individuos/tutoriales.aspx)
 
 
 ![Bike Study](/assets/img/bike_study.jpeg)
