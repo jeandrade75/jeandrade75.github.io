@@ -22,7 +22,7 @@
 - Documentar procedimientos de prueba, resultados y defectos encontrados.
 - Generar informes detallados para comunicar hallazgos al cliente y al equipo de desarrollo, asegurando la resolución oportuna de problemas.
 
-4.Colaboración para la Mejora Continua:
+4. Colaboración para la Mejora Continua:
 - Colaborar con el equipo de desarrollo y otros interesados para implementar correcciones y mejoras basadas en los resultados de las pruebas.
 
 **Tester QA @ Qualis Lab Argentina (_Marzo 2022 - Diciembre 2022_)**
@@ -66,7 +66,7 @@ Participación en el Proyecto Online Banking de Banco Comafi
 
 Como miembro del equipo de Testing, tuve la oportunidad de contribuir al desarrollo del Proyecto Online Banking para Banco Comafi. En este proyecto, trabajamos en la creación y lanzamiento de una plataforma de banca en línea moderna y responsiva, diseñada para ofrecer una experiencia de usuario intuitiva y segura. Esta plataforma permite a los clientes gestionar sus finanzas de manera flexible desde cualquier dispositivo, en cualquier momento, gracias a su disponibilidad 24/7. La herramienta también incorpora funcionalidades avanzadas para mejorar el servicio al cliente y mantenernos competitivos en el mercado.
 
-##Pruebas Web Realizadas:
+## Pruebas Web Realizadas:
 
 En el marco de este proyecto, realizamos pruebas funcionales exhaustivas en varias interfaces clave de la plataforma. Entre las funcionalidades evaluadas se incluyen:
 
@@ -80,15 +80,32 @@ Altas de Prodcutos.
 Estas pruebas garantizaron el correcto funcionamiento de las características críticas del sistema y ayudaron a optimizar la experiencia del usuario. 
 
 ### Creación de usuarios :
-
-### Acceso y manejo de Dashboard :
+![Bike Study](/assets/img/bike_study.jpeg)
+![usuario01_PANTALLASCOMAFI](/assets/img/usuario01_PANTALLASCOMAFI.jpeg)
+![usuario02_PANTALLASCOMAFI](/assets/img/usuario02_PANTALLASCOMAFI.jpeg)
+![usuario03_PANTALLASCOMAFI](/assets/img/usuario03_PANTALLASCOMAFI.jpeg)
 
 ### Vista de Mis Productos :
+![Vistas01_PANTALLASCOMAFI](assets/img/Vistas01_PANTALLASCOMAFI.jpeg)
+![Vistas02_PANTALLASCOMAFI](assets/img/Vistas02_PANTALLASCOMAFI.jpeg)
 
 ### Transferencias entre cuentas :
+![Transfer01_PANTALLASCOMAFI](assets/img/Transfer01_PANTALLASCOMAFI.jpeg)
+![Transfer02_PANTALLASCOMAFI](assets/img/Transfer02_PANTALLASCOMAFI.jpeg)
+![Transfer03_PANTALLASCOMAFI](assets/img/Transfer03_PANTALLASCOMAFI.jpeg)
 
 ### APP Comafi
-Comafi, la nueva App Mobile de Banco Comafi, que permite operar a través del dispositivo móvil en cualquier momento y lugar, las 24hs del día. Ahora el cliente puede visualizar todos sus productos, transferir a todos sus contactos, efectuar los pagos de sus tarjetas Comafi y de otras tarjetas de crédito, pagar impuestos, servicios y realizar recargas.
+Pruebas Manuales en la App Móvil Comafi
+
+En el proceso de desarrollo de la nueva aplicación móvil de Banco Comafi, se llevaron a cabo exhaustivas pruebas manuales para asegurar su funcionamiento óptimo y la mejor experiencia para el usuario. Las pruebas se centraron en validar las siguientes funcionalidades clave:
+
+- Visualización de Productos: Se verificó la correcta visualización y actualización de la información relacionada con todas las cuentas y tarjetas del usuario.
+- Transferencias a Contactos: Se realizaron pruebas para garantizar que las transferencias de dinero a contactos guardados se procesaran de manera eficiente y sin errores.
+- Pagos de Tarjetas: Se comprobó el funcionamiento de los pagos para las tarjetas Comafi y otras tarjetas de crédito, asegurando que las transacciones se completaran correctamente.
+- Pagos de Impuestos y Servicios: Se testearon los pagos de impuestos y servicios para confirmar que estos se realizaran de forma precisa y sin inconvenientes.
+- Recargas de Crédito: Se validó el proceso de recarga de crédito en el móvil y otros servicios relacionados para asegurar su correcta ejecución.
+
+Estas pruebas manuales fueron fundamentales para identificar y corregir posibles fallos, garantizando una aplicación móvil robusta, intuitiva y segura para todos los usuarios.
 [Página Comafi HBI Individuos App](https://www.comafi.com.ar/atencion-cliente-individuos/tutoriales.aspx)
 
 ### APP Comafi UI: 
